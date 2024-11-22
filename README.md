@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MonkeyDluffY13691
+- 👋 Hi, I’m @giridharedy
 - 👀 I’m interested in game development...
-- 🌱 I’m currently learning .python..
+- 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on .git hub..
 - 📫 How to reach me .mail me on singamgiridharreddy13691@gmail.com..
 
